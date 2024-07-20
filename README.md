@@ -1,4 +1,4 @@
-# Common-Wealth-Bank-Job-Simulation
+# Commonwealth-Bank-Job-Simulation
 
 ## Objective
 
