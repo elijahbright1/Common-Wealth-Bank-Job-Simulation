@@ -14,7 +14,7 @@ Gain hands-on experience in data analysis, especially in the context of cyber da
 
 ### Tools Used
 - Splunk
-- 
+- Adobe Illustration
 
 ## Steps
 
